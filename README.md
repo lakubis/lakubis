@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @lakubis
-- 👀 I’m interested in Quantum information science, Quantum Optics, and other peculiar phenomenon
-- 🌱 I’m currently learning Quantum Optics
-- 💞️ I’m looking to collaborate on any physics research
+- 👋 Hi, My name is Felix Cahyadi
+- 👀 I am a student in the Erasmus RADMEP program, specializing in photonics devices
+- 💞️ I’m looking to collaborate on research regarding photonic integrated chips and radiation effects on photonics devices
 - 📫 How to reach me by email: cahyadi.felix@gmail.com
 
 <!---
